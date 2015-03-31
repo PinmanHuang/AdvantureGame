@@ -1,0 +1,7 @@
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\Sprite_Demo.Form1.resources
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\Sprite_Demo.Form2.resources
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\Sprite_Demo.Form3.resources
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\Sprite_Demo.Form4.resources
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Properties.Resources.resources
+C:\Users\joyce\Desktop\Class\計算機概論\FinalProject\FinalProject\obj\x86\Debug\FinalProject.csproj.GenerateResource.Cache

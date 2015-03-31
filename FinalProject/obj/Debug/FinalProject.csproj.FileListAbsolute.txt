@@ -1,0 +1,14 @@
+C:\Users\ihsuan\Downloads\chap03\FinalProject\Sprite Demo\obj\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\FinalProject\Sprite Demo\obj\Debug\Sprite Demo.pdb
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite Demo.pdb
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\bin\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\bin\Debug\Sprite Demo.pdb
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite_Demo.Form1.resources
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite_Demo.Form2.resources
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite_Demo.Properties.Resources.resources
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\ihsuan\Downloads\chap03\FinalProject\FinalProject\obj\Debug\Sprite_Demo.Form3.resources
+C:\Users\joyce\Desktop\課程\計算機概論\FinalProject\FinalProject\obj\Debug\Sprite Demo.exe
+C:\Users\joyce\Desktop\課程\計算機概論\FinalProject\FinalProject\obj\Debug\Sprite Demo.pdb

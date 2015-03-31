@@ -1,0 +1,11 @@
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\bin\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\bin\Debug\Sprite Demo.pdb
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.csprojResolveAssemblyReference.cache
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite_Demo.Form1.resources
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite_Demo.Properties.Resources.resources
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.csproj.GenerateResource.Cache
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite Demo.pdb
+C:\Users\ihsuan\Downloads\chap03\Sprite Demo\Sprite Demo\obj\Debug\Sprite_Demo.Form2.resources
+C:\Users\ihsuan\Downloads\chap03\FinalProject\Sprite Demo\obj\Debug\Sprite Demo.exe
+C:\Users\ihsuan\Downloads\chap03\FinalProject\Sprite Demo\obj\Debug\Sprite Demo.pdb
